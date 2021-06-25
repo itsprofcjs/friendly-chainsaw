@@ -44,7 +44,7 @@ jobs:
 
             - name: Semantic Release
               id: semantic
-              uses: cycjimmy/semantic-release-action
+              uses: cycjimmy/semantic-release-action@v2
               # if: github.event_name == 'push'
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
