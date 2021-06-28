@@ -1,6 +1,6 @@
 {
     "name": "friendly-chainsaw",
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta.2",
     "description": "Redux and it's ecosystem (react-redux) etc",
     "main": "index.js",
     "scripts": {
